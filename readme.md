@@ -7,4 +7,3 @@
 * git checkout `branch name ` ==> switch branches
 
 * git checkout  -b `branch name` ==>create a new branch
-
